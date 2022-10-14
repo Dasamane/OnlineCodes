@@ -3,3 +3,4 @@ modifying after staging
 after commiting
 abcd
 modified
+modified now
