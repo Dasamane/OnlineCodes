@@ -1,2 +1,3 @@
 file after staging.
 modifying after staging
+after commiting
